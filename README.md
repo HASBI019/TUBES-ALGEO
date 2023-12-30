@@ -8,5 +8,5 @@
 5. Ketik perintah berikut untuk menjalankan aplikasi:
 
 ```bash
-java -jar "Hasbi.jar"
+java -jar "MatrixCalculator.jar"
 ```
